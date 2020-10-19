@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+body {
+    background: #E1A4E9;
+    font-family: Arial;
+    width: 1260px;
+    margin: auto;
+}
+
+ol li{
+    float: left;
+    margin-left: 50px;
+}
+
+.t1 {
+	background-image: url(../img/bc6.jpg);
+}
+
