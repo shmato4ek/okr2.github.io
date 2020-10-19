@@ -1,7 +1,6 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing: 0;
 }
 
 body {
@@ -44,7 +43,6 @@ img{
 
 .t1{
     background: #F296D0;
-    background-size: cover;
     width: 24.9vw;
     height: 90rem;
 	float: left;
@@ -52,13 +50,11 @@ img{
 }
 .t2{
     background: #4252FF;
-    background-size: cover;
     width: 75vw;
     height: 20rem;
 }
 .t3{
     background: #FFEF42;
-    background-size: cover;
     width: 50vw;
     height: 10rem;
     display: table-cell;
@@ -66,7 +62,6 @@ img{
 }
 .t4{
     background: #F296D0;
-    background-size: cover;
     width: 25vw;
     height: 70rem;
 	float: right;
@@ -75,7 +70,6 @@ img{
 .t5{
     background: #99F9F1;
     flex-direction: column;
-    background-size: cover;
     width: 50vw;
     height: 60rem;
     display: table-cell;
